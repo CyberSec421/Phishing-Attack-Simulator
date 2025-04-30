@@ -1,7 +1,7 @@
 # Phishing-Attack-Simulator
 
 **Project Type**: Cybersecurity Simulation  
-**Purpose**: Educational / Personal Showcase for Recruiters  
+**Purpose**: Educational 
 **Access**: For viewing only – not for reproduction or execution
 
 ---
@@ -59,7 +59,7 @@ To ensure ethical and risk-free testing, I used **Mailtrap**, a **sandboxed emai
 
 ## 👀 View-Only Notice
 
-This repository exists **strictly for recruitment and educational review**.
+This repository exists **strictly for educational review**.
 
 Please note:
 
